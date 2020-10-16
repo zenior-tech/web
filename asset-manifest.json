@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b59f3e0.chunk.css",
+    "main.js": "/static/js/main.9946a4c7.chunk.js",
+    "main.js.map": "/static/js/main.9946a4c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a234770a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a234770a.js.map",
+    "static/css/2.3beaa726.chunk.css": "/static/css/2.3beaa726.chunk.css",
+    "static/js/2.db4e8939.chunk.js": "/static/js/2.db4e8939.chunk.js",
+    "static/js/2.db4e8939.chunk.js.map": "/static/js/2.db4e8939.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7550968e74d5528cdf92930a265abd99.js": "/precache-manifest.7550968e74d5528cdf92930a265abd99.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3beaa726.chunk.css.map": "/static/css/2.3beaa726.chunk.css.map",
+    "static/css/main.8b59f3e0.chunk.css.map": "/static/css/main.8b59f3e0.chunk.css.map",
+    "static/js/2.db4e8939.chunk.js.LICENSE.txt": "/static/js/2.db4e8939.chunk.js.LICENSE.txt",
+    "static/media/brecha-digital.jpg": "/static/media/brecha-digital.93138640.jpg",
+    "static/media/Hero.css": "/static/media/fondo-hero.2a747d9f.jpg",
+    "static/media/senior-sonrisa.jpg": "/static/media/senior-sonrisa.a367880f.jpg",
+    "static/media/zenior-logo-blanco.png": "/static/media/zenior-logo-blanco.cb3439d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a234770a.js",
+    "static/css/2.3beaa726.chunk.css",
+    "static/js/2.db4e8939.chunk.js",
+    "static/css/main.8b59f3e0.chunk.css",
+    "static/js/main.9946a4c7.chunk.js"
+  ]
+}
